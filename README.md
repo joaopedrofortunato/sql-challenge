@@ -1,4 +1,4 @@
-# python-api-challenge
+# sql-challenge
 
 ### Description
 
